@@ -4,7 +4,7 @@
 <title>Use Case Diagram</title>
 </head>
 <body>
-<img src="Use Case Diagram">
+<img src="Use Case Diagram.jpg">
 <p>This Use case diagram shows that the Actors (Passenger,Driver and Admin) associate with a multiple use cases.
 <br>Passenger use case related, he/she considering as a bus commuters,as a part of the application processes 
 <br>fare payments it's includes one of importants use case throught the bus commuters. the route guide is just 
